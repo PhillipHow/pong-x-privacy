@@ -6,11 +6,11 @@ Der Betreiber dieser App nimmt den Schutz Ihrer persönlichen Daten sehr ernst. 
 ## Hinweis zur verantwortlichen Stelle
 Die Datenverarbeitung innerhalb unserer App erfolgt durch den Herausgeber der App. Der Herausgeber ist:
 
-```Phillip Howeihe
-Krausenstraße 12
-30171 Hannover
-E-Mail: phillip@howeihe.de
-````
+Phillip Howeihe  
+Krausenstraße 12  
+30171 Hannover  
+E-Mail: phillip@howeihe.de  
+
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o. Ä.) entscheidet.
 
 ## Widerruf Ihrer Einwilligung zur Datenverarbeitung
